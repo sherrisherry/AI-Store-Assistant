@@ -206,10 +206,6 @@ The application code and required example datasets are maintained in the reposit
 
 Potential future improvements include:
 
-## Roadmap
-
-Potential future improvements include:
-
 * [ ] Standardized tool interfaces using MCP
 * [ ] Agent execution tracing and structured observability
 * [ ] Automated evaluation benchmarks for retrieval, tool selection, and answer quality
