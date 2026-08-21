@@ -1,0 +1,191 @@
+Dishes & Customizations Breakdown,Type,item_id,Category,Is_Drink,Is_Dessert,Is_Cold,Is_Signature
+black sugar boba fresh milk,dish,black sugar boba fresh milk,fresh milk,1,0,0.5,0
+black sugar boba milk tea,dish,black sugar boba milk tea,milk teas,1,0,0.5,0
+black sugar boba milky shaved ice,dish,black sugar boba milky shaved ice,shaved ice,0,1,1.0,0
+black tea,dish,black tea,teas,1,0,0.5,0
+boba milk tea,dish,boba milk tea,milk teas,1,0,0.5,0
+caramel pudding w boba,dish,caramel pudding w boba,small bites,0,1,0.5,0
+coco sago drink,dish,coco sago drink,coco sago,1,0,0.5,0
+cold coco sago c,dish,cold coco sago c,coco sago,0,1,1.0,0
+cold purple rice soup signature,dish,cold purple rice soup signature,our signature series,0,1,1.0,1
+double taro signature,dish,double taro signature,our signature series,0,1,0.5,1
+fluffy green tea,dish,fluffy green tea,fluffy series,1,0,0.5,0
+fluffy ube smoothie,dish,fluffy ube smoothie,ube series,1,0,0.5,0
+fresh milk & grass jelly herbal tea,dish,fresh milk & grass jelly herbal tea,herbal teas,1,0,0.5,0
+fresh milk black w. taro paste (1 scoop),dish,fresh milk black w. taro paste,fresh milk,1,0,0.5,0
+fresh milk green tea w. taro paste (1 scoop),dish,fresh milk green tea w. taro paste,fresh milk,1,0,0.5,0
+fresh milk oolong tea w. boba,dish,fresh milk oolong tea w. boba,fresh milk,1,0,0.5,0
+fresh milk winter melon tea,dish,fresh milk winter melon tea,winter melon teas,1,0,0.5,0
+grass jelly winter melon tea,dish,grass jelly winter melon tea,winter melon teas,1,0,0.5,0
+green tea,dish,green tea,teas,1,0,0.5,0
+herbal tea,dish,herbal tea,herbal teas,1,0,0.5,0
+hot almond soup c (taro balls & almond flakes & almond soup & melon jelly & rice balls & boba),dish,hot almond soup c (taro balls & almond flakes & almond soup & melon jelly & rice balls & boba),hot almond drink,0,1,1.0,0
+hot almond soup signature,dish,hot almond soup signature,our signature series,0,1,0.0,1
+hot almond soup w tofu pudding,dish,hot almond soup w tofu pudding,tofu pudding,0,1,0.0,0
+hot grass jelly a (grass jelly soup & mini taro balls & red beans & peanuts & boba),dish,hot grass jelly a (grass jelly soup & mini taro balls & red beans & peanuts & boba),hot grass jelly soup series,0,1,0.0,0
+hot grass jelly soup,dish,hot grass jelly soup,create your own (base),0,1,0.0,0
+hot grass jelly soup signature,dish,hot grass jelly soup signature,our signature series,0,1,0.0,1
+hot mini taro balls almond drink,dish,hot mini taro balls almond drink,seasonal drink,1,0,0.0,0
+hot purple rice soup signature,dish,hot purple rice soup signature,our signature series,0,1,1.0,1
+hot red bean soup,dish,hot red bean soup,create your own (base),0,1,0.0,0
+hot red bean soup b (taro balls & red bean soup & taro & red beans & boba),dish,hot red bean soup b (taro balls & red bean soup & taro & red beans & boba),hot red bean soup series,0,1,0.0,0
+hot red bean soup signature,dish,hot red bean soup signature,our signature series,0,1,0.0,1
+ice ube ball signature,dish,ice ube ball signature,ube series,0,1,1.0,1
+icy grass jelly (1 slice),dish,icy grass jelly,create your own (base),0,1,1.0,0
+icy grass jelly a (grass jelly & grass jelly shaved ice & red beans & peanuts & boba),dish,icy grass jelly a (grass jelly & grass jelly shaved ice & red beans & peanuts & boba),icy grass jelly series,0,1,1.0,0
+icy grass jelly b (grass jelly & grass jelly shaved ice & red beans & taro & boba),dish,icy grass jelly b (grass jelly & grass jelly shaved ice & red beans & taro & boba),icy grass jelly series,0,1,1.0,0
+icy grass jelly c (grass jelly & grass jelly shaved ice & melon jelly & rice balls & boba),dish,icy grass jelly c (grass jelly & grass jelly shaved ice & melon jelly & rice balls & boba),icy grass jelly series,0,1,1.0,0
+icy grass jelly signature,dish,icy grass jelly signature,our signature series,0,1,1.0,1
+icy taro ball a (taro balls & shaved ice & red beans & peanuts & boba),dish,icy taro ball a (taro balls & shaved ice & red beans & peanuts & boba),icey taro ball,0,1,1.0,0
+icy taro ball b (taro balls & shaved ice & taro & red beans & boba),dish,icy taro ball b (taro balls & shaved ice & taro & red beans & boba),icey taro ball,0,1,1.0,0
+icy taro ball signature,dish,icy taro ball signature,our signature series,0,1,1.0,1
+icy taro ball c (taro balls & shaved ice & melon jelly & rice balls & boba),dish,icy taro balll c (taro balls & shaved ice & melon jelly & rice balls & boba),icey taro ball,0,1,1.0,0
+jasmine milk tea,dish,jasmine milk tea,milk teas,1,0,0.5,0
+lemon winter melon tea,dish,lemon winter melon tea,winter melon teas,1,0,0.5,0
+mango & passion fruit green tea,dish,mango & passion fruit green tea,fruit series,1,0,0.5,0
+mango green tea,dish,mango green tea,fruit series,1,0,0.5,0
+mango milk shaved ice,dish,mango milk shaved ice,shaved ice,0,1,1.0,0
+mangoberry milk shaved ice,dish,mangoberry milk shaved ice,shaved ice,0,1,1.0,0
+mini q coco sago drink,dish,mini q coco sago drink,coco sago,1,0,0.5,0
+mini taro ball tofu pudding,dish,mini taro ball tofu pudding,tofu pudding,0,1,0.5,0
+mini taro balls milk tea,dish,mini taro balls milk tea,milk teas,1,0,0.5,0
+mini taro balls purple rice fresh milk,dish,mini taro balls purple rice fresh milk,purple rice drink,1,0,1.0,0
+mini taro balls winter melon tea,dish,mini taro balls winter melon tea,winter melon teas,1,0,0.5,0
+mung bean cakes,dish,mung bean cakes,small bites,0,1,0.5,0
+oolong milk tea,dish,oolong milk tea,milk teas,1,0,0.5,0
+oolong tea,dish,oolong tea,teas,1,0,0.5,0
+peanut tofu pudding,dish,peanut tofu pudding,tofu pudding,0,1,0.5,0
+pudding & q mochi milk shaved ice,dish,pudding & q mochi milk shaved ice,shaved ice,0,1,1.0,0
+pudding milk tea,dish,pudding milk tea,milk teas,1,0,0.5,0
+q mochi milk shaved ice,dish,q mochi milk shaved ice,shaved ice,0,1,1.0,0
+qq winter melon tea,dish,qq winter melon tea,winter melon teas,1,0,0.5,0
+red bean milk shaved ice,dish,red bean milk shaved ice,shaved ice,0,1,1.0,0
+red bean tofu pudding,dish,red bean tofu pudding,tofu pudding,0,1,0.5,0
+sesame rice balls (topping),dish,sesame rice balls (topping),topping,0,1,1.0,0
+strawberry milk shaved ice,dish,strawberry milk shaved ice,shaved ice,0,1,1.0,0
+strawberry smoothie,dish,strawberry smoothie,slush series,1,0,0.5,0
+sweet potato taro ball tofu pudding,dish,sweet potato taro ball tofu pudding,tofu pudding,0,1,0.5,0
+sweet potato taro balls (topping),dish,sweet potato taro balls (topping),topping,0,1,0.5,0
+taro ball tofu pudding,dish,taro ball tofu pudding,tofu pudding,0,1,0.5,0
+taro paste valcona shaved ice,dish,taro paste valcona shaved ice,shaved ice,0,1,1.0,0
+taro tofu pudding,dish,taro tofu pudding,tofu pudding,0,1,0.5,0
+tofu pudding,dish,tofu pudding,tofu pudding,0,1,0.5,0
+traditional milk tea,dish,traditional milk tea,milk teas,1,0,0.5,0
+ube & taro paste signature,dish,ube & taro paste signature,ube series,0,1,0.5,1
+ube milk shaved ice,dish,ube milk shaved ice,ube series,0,1,1.0,0
+ube milk tea,dish,ube milk tea,ube series,1,0,0.5,0
+win win milk tea,dish,win win milk tea,milk teas,1,0,0.5,0
+winter melon tea,dish,winter melon tea,winter melon teas,1,0,0.5,0
+boba tofu pudding,dish,boba tofu pudding,tofu pudding,0,1,0.5,0
+coco mochi sago drink,dish,coco mochi sago drink,coco sago,1,0,0.5,0
+fluffy herbal tea,dish,fluffy herbal tea,fluffy series,1,0,0.5,0
+fresh milk green tea w. boba,dish,fresh milk green tea w. boba,fresh milk,1,0,0.5,0
+fresh milk herbal tea,dish,fresh milk herbal tea,herbal teas,1,0,0.5,0
+grass jelly milk tea,dish,grass jelly milk tea,milk teas,1,0,0.5,0
+hot grass jelly c (grass jelly soup & mini taro balls & melon jelly & rice balls & boba),dish,hot grass jelly c (grass jelly soup & mini taro balls & melon jelly & rice balls & boba),hot grass jelly soup series,0,1,1.0,0
+mango & orange green tea,dish,mango & orange green tea,fruit series,1,0,0.5,0
+passion fruit green tea,dish,passion fruit green tea,fruit series,1,0,0.5,0
+purple rice soup,dish,purple rice soup,create your own (base),0,1,1.0,0
+purple rice soup a (purple rice soup & red beans & peanuts & boba),dish,purple rice soup a (purple rice soup & red beans & peanuts & boba),purple rice series,0,1,1.0,0
+rice ball tofu pudding,dish,rice ball tofu pudding,tofu pudding,0,1,1.0,0
+boba purple rice fresh milk,dish,boba purple rice fresh milk,purple rice drink,1,0,1.0,0
+fresh milk black tea w. boba,dish,fresh milk black tea w. boba,fresh milk,1,0,0.5,0
+icy taro ball,dish,icy taro ball,create your own (base),0,1,1.0,0
+q mochi & caramel pudding,dish,q mochi & caramel pudding,small bites,0,1,0.5,0
+caramel pudding (topping),dish,caramel pudding (topping),topping,0,1,0.5,0
+cold coco sago b,dish,cold coco sago b,coco sago,0,1,1.0,0
+hot almond drink,dish,hot almond drink,seasonal drink,1,0,0.0,0
+hot almond soup a (taro balls & almond flakes & almond soup & red beans & peanuts & boba),dish,hot almond soup a (taro balls & almond flakes & almond soup & red beans & peanuts & boba),hot almond drink,0,1,0.0,0
+hot grass jelly b (grass jelly soup & mini taro balls & taro & red beans & boba),dish,hot grass jelly b (grass jelly soup & mini taro balls & taro & red beans & boba),hot grass jelly soup series,0,1,0.0,0
+hot red bean soup c (taro balls & red bean soup & melon jelly & rice balls & boba),dish,hot red bean soup c (taro balls & red bean soup & melon jelly & rice balls & boba),hot red bean soup series,0,1,1.0,0
+purple rice milk tea,dish,purple rice milk tea,purple rice drink,1,0,1.0,0
+hot almond soup -seasonal,dish,hot almond soup -seasonal,create your own (base),0,1,0.0,0
+hot almond soup w purple rice,dish,hot almond soup w purple rice,purple rice series,0,1,1.0,0
+hot red bean soup a (taro balls & red bean soup & red beans & peanuts & boba),dish,hot red bean soup a (taro balls & red bean soup & red beans & peanuts & boba),hot red bean soup series,0,1,0.0,0
+taro balls (topping),dish,taro balls (topping),topping,0,1,0.5,0
+taro paste (topping),dish,taro paste (topping),topping,0,1,0.5,0
+fresh milk green tea,dish,fresh milk green tea,fresh milk,1,0,0.5,0
+fresh milk oolong tea w. taro paste (1 scoop),dish,fresh milk oolong tea w. taro paste,fresh milk,1,0,0.5,0
+q mochi,dish,q mochi,small bites,0,1,0.5,0
+cold coco sago,dish,cold coco sago,create your own (base),0,1,1.0,0
+cold coco sago a,dish,cold coco sago a,coco sago,0,1,1.0,0
+free winter melon tea,dish,free winter melon tea,unknown,1,0,0.5,0
+orange & passion fruit green tea,dish,orange & passion fruit green tea,fruit series,1,0,0.5,0
+almond pudding (topping),dish,almond pudding (topping),topping,0,1,0.5,0
+jin xuan oolong tea,dish,jin xuan oolong tea,teas,1,0,0.5,0
+free caramel pudding w. boba,dish,free caramel pudding w. boba,unknown,0,1,0.5,0
+fresh milk black tea,dish,fresh milk black tea,fresh milk,1,0,0.5,0
+almond pudding w red beans,dish,almond pudding w red beans,small bites,0,1,0.5,0
+free mung bean cakes & peanut & sesame mochi,dish,free mung bean cakes & peanut & sesame mochi,unknown,0,1,0.5,0
+cold coco sago signature,dish,cold coco sago signature,coco sago,0,1,1.0,1
+boba (topping),dish,boba (topping),topping,0,1,0.5,0
+q mochi (topping),dish,q mochi (topping),topping,0,1,0.5,0
+free icy grass jelly signature,dish,free icy grass jelly signature,unknown,0,1,1.0,1
+condensed milk (1 scoop),dish,condensed milk (1 scoop),topping,0,1,0.5,0
+hot almond soup,dish,hot almond soup,our dessert combo,0,1,0.0,0
+miss you drink,dish,miss you drink,herbal teas,1,0,0.5,0
+purple rice fresh milk,dish,purple rice fresh milk,purple rice drink,1,0,1.0,0
+purple rice soup b (purple rice soup & red beans & taro & boba),dish,purple rice soup b (purple rice soup & red beans & taro & boba),purple rice series,0,1,1.0,0
+q mochi & almond pudding,dish,q mochi & almond pudding,small bites,0,1,0.5,0
+hot almond soup b (taro balls & almond flakes & almond soup & taro & red beans & boba),dish,hot almond soup b (taro balls & almond flakes & almond soup & taro & red beans & boba),hot almond drink,0,1,0.0,0
+hot boba almond drink,dish,hot boba almond drink,seasonal drink,1,0,0.0,0
+fluffy mini taro balls winter melon tea,dish,fluffy mini taro balls winter melon tea,fluffy series,1,0,0.5,0
+fresh milk jin xuan tea,dish,fresh milk jin xuan tea,fresh milk,1,0,0.5,0
+mini taro balls (topping),dish,mini taro balls (topping),topping,0,1,0.5,0
+mixed fruit green tea slush,dish,mixed fruit green tea slush,slush series,1,0,1.0,0
+ice cream (topping),dish,ice cream (topping),topping,0,1,1.0,0
+mango green tea slush,dish,mango green tea slush,slush series,1,0,1.0,0
+free double taro signature,dish,free double taro signature,unknown,0,1,0.5,1
+jin xuan oolong milk tea,dish,jin xuan oolong milk tea,milk teas,1,0,0.5,0
+tofu pudding (1 slice),dish,tofu pudding (1 slice),topping,0,1,1.0,0
+fluffy black tea,dish,fluffy black tea,fluffy series,1,0,0.5,0
+fluffy winter melon tea,dish,fluffy winter melon tea,fluffy series,1,0,0.5,0
+grass jelly (topping),dish,grass jelly (topping),topping,0,1,0.5,0
+red beans (topping),dish,red beans (topping),topping,0,1,0.5,0
+taro (topping),dish,taro (topping),topping,0,1,0.5,0
+purple rice soup c (purple rice soup & melon jelly & rice balls & boba),dish,purple rice soup c (purple rice soup & melon jelly & rice balls & boba),purple rice series,0,1,1.0,0
+fluffy jin xuan tea,dish,fluffy jin xuan tea,fluffy series,1,0,0.5,0
+fluffy oolong tea,dish,fluffy oolong tea,fluffy series,1,0,0.5,0
+almond pudding qt,dish,almond pudding qt,qt cup,0,1,1.0,0
+caramel pudding qt,dish,caramel pudding qt,qt cup,0,1,1.0,0
+taro pste qt,dish,taro pste qt,qt cup,0,1,1.0,0
+black sugar boba (topping),dish,black sugar boba (topping),topping,0,1,0.5,0
+passion fruit sorbet c,dish,passion fruit sorbet c,passion fruit sorbet,0,1,1.0,0
+grassjelly slush,dish,grassjelly slush,shaved ice,0,1,1.0,0
+passion fruit sorbet a,dish,passion fruit sorbet a,passion fruit sorbet,0,1,1.0,0
+passion fruit sorbet b,dish,passion fruit sorbet b,passion fruit sorbet,0,1,1.0,0
+lychee jelly (topping),dish,lychee jelly (topping),topping,0,1,0.5,0
+crystalmochi set,dish,crystalmochi set,small bites,0,1,0.5,0
+crystal mochi milk shaved ice(l),dish,crystal mochi milk shaved ice(l),shaved ice,0,1,1.0,0
+crystal mochimilk shaved ice(m),dish,crystal mochimilk shaved ice(m),shaved ice,0,1,1.0,0
+caramel pudding milk tea,dish,caramel pudding milk tea,milk teas,1,0,0.5,0
+fluffy grass jelly slush,dish,fluffy grass jelly slush,slush series,0,1,1.0,0
+matcha latte smoothie,dish,matcha latte smoothie,create your own (base),1,0,0.5,0
+fresh milk oolong tea,dish,fresh milk oolong tea,fresh milk,1,0,0.5,0
+crystal &q mochi set,dish,crystal &q mochi set,small bites,0,1,0.5,0
+crystal mochi (1 piece),dish,crystal mochi (1 piece),topping,0,1,0.5,0
+hot coco sago signature,dish,hot coco sago signature,hot coco sago series,0,1,0.0,1
+melon jelly (topping),dish,melon jelly (topping),topping,0,1,0.5,0
+peanuts (topping),dish,peanuts (topping),topping,0,1,0.5,0
+rice balls (topping),dish,rice balls (topping),topping,0,1,1.0,0
+hot coco sago b,dish,hot coco sago b,hot coco sago series,0,1,0.0,0
+crystal mochi& mung beancake set,dish,crystal mochi& mung beancake set,small bites,0,1,0.5,0
+passion fruit sorbet base,dish,passion fruit sorbet base,passion fruit sorbet,0,1,1.0,0
+hot coco sago c,dish,hot coco sago c,hot coco sago series,0,1,0.0,0
+hot original coco sago drink,dish,hot original coco sago drink,hot coco sago series,1,0,0.0,0
+hot mini q coco sago drink,dish,hot mini q coco sago drink,hot coco sago series,1,0,0.0,0
+strawberry jin xuan oolong tea,dish,strawberry jin xuan oolong tea,fruit series,1,0,0.5,0
+strawberry passion fruit green tea,dish,strawberry passion fruit green tea,fruit series,1,0,0.5,0
+strawberry green tea,dish,strawberry green tea,fruit series,1,0,0.5,0
+strawberry orange green tea,dish,strawberry orange green tea,fruit series,1,0,0.5,0
+hot coco sago a,dish,hot coco sago a,hot coco sago series,0,1,0.0,0
+fresh milk tea w. taro paste (1 scoop),dish,fresh milk tea w. taro paste,fresh milk,1,0,0.5,0
+fluffy thai milk tea,dish,fluffy thai milk tea,thai milk tea series,1,0,0.5,0
+thai milk tea,dish,thai milk tea,thai milk tea series,1,0,0.5,0
+fluffy thai milk tea with mini q,dish,fluffy thai milk tea with mini q,thai milk tea series,1,0,0.5,0
+fluffy thai milk tea with lychee jelly (1 scoop),dish,fluffy thai milk tea with lychee jelly,thai milk tea series,1,0,0.5,0
+fluffy thai milk tea with sago,dish,fluffy thai milk tea with sago,thai milk tea series,1,0,0.5,0
+fluffy thai milk tea with sago&grass jelly (1 slice),dish,fluffy thai milk tea with sago&grass jelly,thai milk tea series,1,0,0.5,0
+thai milk tea shaved ice,dish,thai milk tea shaved ice ,thai milk tea series,1,0,1.0,0
+thai milk tea tofu pudding,dish,thai milk tea tofu pudding,thai milk tea series,1,0,0.5,0
+q mochi set,dish,q mochi set,small bites,0,1,0.5,0

@@ -15,6 +15,16 @@ The project demonstrates an agentic architecture in which a conversational LLM c
 * **Python-based tool library** that exposes data retrieval and predictive capabilities to the agent
 * **Dockerized application** for reproducible deployment
 
+## Original Project Team
+
+The initial version of AI Store Assistant was developed collaboratively by the project team. We thank the original team members for their contributions to the agent architecture, data integration, predictive analytics, and user experience.
+
+The project is now open source and welcomes contributions from the broader community.
+
+- [@sherrisherry](https://github.com/sherrisherry): Product Architecture, Tool Integration, Vector Database, UI, Dockerization
+- [@Amelieli](https://github.com/Amelieli): Predictive Model
+- [@Dr-Spicy](https://github.com/Dr-Spicy): KoC Data in MongoDB
+
 ## Architecture
 
 The assistant combines conversational AI with retrieval, structured data, and predictive analytics.
@@ -206,13 +216,14 @@ The application code and required example datasets are maintained in the reposit
 
 Potential future improvements include:
 
-* [ ] Standardized tool interfaces using MCP
-* [ ] Agent execution tracing and structured observability
-* [ ] Automated evaluation benchmarks for retrieval, tool selection, and answer quality
-* [ ] Retrieval evaluation and reranking
-* [ ] Additional predictive analytics tools
-* [ ] Improved tool execution security and sandboxing
-* [ ] Expanded store and menu datasets
+* [ ] Extract reusable agent, RAG, and tool-integration components into a lightweight framework for small-scale LLM applications
+* [ ] Add automated evaluation benchmarks for retrieval, tool selection, and answer quality
+* [ ] Add agent execution tracing and structured observability
+* [ ] Add retrieval evaluation and reranking
+* [ ] Expand predictive analytics capabilities
+* [ ] Improve tool execution security and sandboxing
+* [ ] Evaluate MCP-based tool interfaces for applications requiring standardized external tool integration
+* [ ] Expand store and menu datasets
 
 ## Data and Privacy
 
